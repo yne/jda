@@ -13,8 +13,8 @@ DONE
 ----
   - ELF parsing
   - MIPS disassembly
-  - GUI (seriously hope you guy like <select> and <input>)
-  - Modification throught GUI (select,inputs ...)
+  - GUI (seriously hope you guy like `<select>` and `<input>`)
+  - Modification using HTMLElements
   - .text section Repacking
 
 TODO
